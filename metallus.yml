@@ -13,7 +13,7 @@ jobs:
     packages:
       - type: debian
         name: libav-tools
-        version: 4:0.11-2
+        version: 4:0.11-3
         target: install
         repos:
           - composed-public
